@@ -1,0 +1,14 @@
+server:
+  port: 8090
+  
+spring:
+  ai:
+    zhipuai:
+      api-key: a8dd689e8f4b41ce8e88e026fbeaffaa.Mb2Q96xih4reVRdu
+
+
+
+logging:
+  level:
+    root: info
+  config: classpath:logback-spring.xml
